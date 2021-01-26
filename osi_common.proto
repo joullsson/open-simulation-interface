@@ -215,7 +215,7 @@ message Identifier
     optional uint64 value = 1;
 }
 
-// References to external objects
+// \brief References to external objects
 //
 // The external reference is used to identify objects defined in non-OSI
 // descriptions. This could be other OpenX-Standards as well as user defined
