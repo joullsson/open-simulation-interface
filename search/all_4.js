@@ -4,7 +4,10 @@ var searchData=
   ['ellipsoid_5faxial',['ellipsoid_axial',['../structosi3_1_1UltrasonicIndirectDetection.html#a486263493b3eea64c92cd607c86bc7f4',1,'osi3::UltrasonicIndirectDetection']]],
   ['ellipsoid_5fradial',['ellipsoid_radial',['../structosi3_1_1UltrasonicIndirectDetection.html#ae27488fe133f3e50b4894c7616466989',1,'osi3::UltrasonicIndirectDetection']]],
   ['emergency_5fvehicle_5fillumination',['emergency_vehicle_illumination',['../structosi3_1_1MovingObject_1_1VehicleClassification_1_1LightState.html#a27a9f18b2697ae7d2c13f0cd31085997',1,'osi3::MovingObject::VehicleClassification::LightState']]],
+  ['emitted_5fspatial_5fsignal_5fstrength',['emitted_spatial_signal_strength',['../structosi3_1_1StationaryObject_1_1Classification_1_1EmittingStructureAttribute.html#a9eb02ca713137ec26381d91460a461cf',1,'osi3::StationaryObject::Classification::EmittingStructureAttribute']]],
   ['emitter_5ffrequency',['emitter_frequency',['../structosi3_1_1RadarSensorViewConfiguration.html#a16bcecae0130a7770ede9fcb934dc3c1',1,'osi3::RadarSensorViewConfiguration::emitter_frequency()'],['../structosi3_1_1LidarSensorViewConfiguration.html#aac96421ddf19cf73a7fa611abef48766',1,'osi3::LidarSensorViewConfiguration::emitter_frequency()']]],
+  ['emitting_5fstructure_5fattribute',['emitting_structure_attribute',['../structosi3_1_1StationaryObject_1_1Classification.html#a9cae44e84de3eb884ae7cc1d708e29df',1,'osi3::StationaryObject::Classification']]],
+  ['emittingstructureattribute',['EmittingStructureAttribute',['../structosi3_1_1StationaryObject_1_1Classification_1_1EmittingStructureAttribute.html',1,'osi3::StationaryObject::Classification']]],
   ['end',['end',['../structosi3_1_1WavelengthData.html#a664957f7ae83f8fb8a42c80434290ea9',1,'osi3::WavelengthData']]],
   ['end_5factions_5faction',['end_actions_action',['../structosi3_1_1TrafficAction.html#a359ddf5c1cdf870ad2695bb168488517',1,'osi3::TrafficAction']]],
   ['endactionsaction',['EndActionsAction',['../structosi3_1_1TrafficAction_1_1EndActionsAction.html',1,'osi3::TrafficAction']]],
@@ -25,5 +28,6 @@ var searchData=
   ['extended_5fqualifier_5fsensor_5fmisaligned',['EXTENDED_QUALIFIER_SENSOR_MISALIGNED',['../structosi3_1_1SensorDetectionHeader.html#a379b9a86453a52b37af32f08a6dc636baf9fa590c755364be3c7a307bdebf77f9',1,'osi3::SensorDetectionHeader']]],
   ['extended_5fqualifier_5fsensor_5fnot_5fcalibrated',['EXTENDED_QUALIFIER_SENSOR_NOT_CALIBRATED',['../structosi3_1_1SensorDetectionHeader.html#a379b9a86453a52b37af32f08a6dc636ba59806af59fc9aa84b81c4bb384d1c154',1,'osi3::SensorDetectionHeader']]],
   ['extended_5fqualifier_5funknown',['EXTENDED_QUALIFIER_UNKNOWN',['../structosi3_1_1SensorDetectionHeader.html#a379b9a86453a52b37af32f08a6dc636baa67fb146b5b0ffd936a9809952f224f6',1,'osi3::SensorDetectionHeader']]],
-  ['extendedqualifier',['ExtendedQualifier',['../structosi3_1_1SensorDetectionHeader.html#a379b9a86453a52b37af32f08a6dc636b',1,'osi3::SensorDetectionHeader']]]
+  ['extendedqualifier',['ExtendedQualifier',['../structosi3_1_1SensorDetectionHeader.html#a379b9a86453a52b37af32f08a6dc636b',1,'osi3::SensorDetectionHeader']]],
+  ['externalreference',['ExternalReference',['../structosi3_1_1ExternalReference.html',1,'osi3']]]
 ];
